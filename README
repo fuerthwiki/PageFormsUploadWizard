@@ -29,3 +29,6 @@ If you wish to modify the generic messages, you can modify them within the wiki 
 * MediaWiki:mwe-upwiz-source-ownwork
 * MediaWiki:Mwe-upwiz-source-ownwork-assert-generic
 * MediaWiki:Mwe-upwiz-source-ownwork-generic-explain
+
+By Red Rooster:
+This extension should also support PageForms to add data to the images in form of a template.
